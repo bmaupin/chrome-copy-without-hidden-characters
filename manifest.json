@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+
+  "name": "Copy from SharePoint",
+  "description": "Copies text from Microsoft SharePoint without hidden characters",
+  "version": "0.1",
+  "icons": {
+    "16": "assets/images/icon16.png",
+    "48": "assets/images/icon48.png",
+    "128": "assets/images/icon128.png"
+  },
+  "background": {
+    "scripts": [
+      "assets/scripts/background.js"
+    ]
+  },
+  "permissions": [
+    "contextMenus",
+    "http://*/",
+    "https://*/",
+    "tabs"
+  ]
+}
