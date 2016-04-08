@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Copier sans charactères cachés"
+  },
+  "extensionDescription": {
+    "message": "Copier du texte sans charactères cachés comme les espaces insécables et les espaces sans chasse"
+  },
+  "copyContextMenuTitle": {
+    "message": "Copier sans charactères cachés"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Copy without hidden characters"
+  },
+  "extensionDescription": {
+    "message": "Copies text without hidden characters such as non-breaking spaces and zero-width spaces"
+  },
+  "copyContextMenuTitle": {
+    "message": "Copy without hidden characters"
+  }
+}

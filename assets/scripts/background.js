@@ -41,7 +41,7 @@ function cleanAndCopy(selectionText) {
 }
 
 chrome.contextMenus.create({
-  'title': 'Copy from SharePoint',
+  'title': chrome.i18n.getMessage('copyContextMenuTitle'),
   'contexts': ['selection'],
   'onclick': getSelection
 });
