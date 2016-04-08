@@ -1,2 +1,2 @@
 #!/bin/bash
-zip -r chrome-copy-from-sharepoint.zip assets manifest.json
+zip -r `basename \`pwd\``.zip assets _locales manifest.json
